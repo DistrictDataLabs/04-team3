@@ -1,0 +1,22 @@
+April 21 2016:
+Hi all,
+Here are the census block group centroids for the Greater Washington area (attached). The "centlat" and "centlong" fields are the ones to use. I hope one of the other fields is useful for connecting these to LODES. If not, I could try to do a spatial join between the LODES dataset and this one, but I haven't yet pondered how exactly I would go about it. To get the centroid I did the following (for documentation purposes):
+
+- went to openstreetmaps.org > export > Metro extracts, which led me to https://mapzen.com/data/metro-extracts/ and downloaded shapefile for DC metropolitan area - I think it was the one called "dc-baltimore_maryland.imposm-shapefiles.zip"
+
+- downloaded census block group shapefiles for DC, MD, VA for 20914 using the link Daniel sent around (https://www.census.gov/geo/maps-data/data/cbf/cbf_blkgrp.html)
+
+- extracted the census block groups for MD and VA that intersected the polygons that defined the Metro DC area in the mapzen.com download above
+
+- calculated the centroid lat and long of these polygons in ArcGIS. This is also be done in QGIS, which is free, but I used Arc as I'm more familiar with it.
+------------------------------------------------------------------------
+April 29 2016:
+I was able to download income and disability data for DC and surrounding census block groups from the website http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml, which was a link from the blog post http://conveyal.com/blog/2015/12/11/census-tools that Jeffrey had recommended to us. I used the "guided search" option to extract this information. Since I had to do two separate searches, one for income and one for disability, and I didn't keep track of which counties of MD and VA I selected in each run, I think one file may have a few more counties than another, but in general most of the DC area counties should be covered in each file. I renamed the file suffixes to "_zip" since email clients will sometimes strip out .zip files, so please reinstate the extension to few these files and their metadata.
+
+I could try to join these files to the DC area census block shapefiles I downloaded earlier, but haven't gotten to that yet. 
+-------------------------------------------
+May 3 2016: Merged census block group shapefiles with centroid lat longs calculated for DC, MD, VA, then joined to census data on icome and disability
+----------------------------
+May 06 2016:
+Hi both,
+Attached please find the csv file that I sent earlier, but with an additional row (2nd row after the column headers) that has expanded descriptions of some of the labels. I put an "xxx" string in those fields that were not immediately relevant to us. I have also attached the label descriptions in the attached word doc. Tow of the variables have to do with income in $; the other variables are # of households that received / didn't receive food stamps or SNAP assistance, and also how many of those households did or didn't have disabled individual(s).
