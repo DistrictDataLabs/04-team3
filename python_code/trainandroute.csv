@@ -1,0 +1,147 @@
+,unique,path,name,metro_name,state,zip,latitude,longitude,type,category
+0,BL,1,Franconia-Springfield,Springfield,VA,22150,38.766129,-77.168797,train,train
+1,BL,2,Van Dorn Street,Alexandria,VA,22310,38.799193,-77.129407,train,train
+2,BL,3,King St-Old Town,Alexandria,VA,22301,38.806474,-77.061115,train,train
+3,BL,4,Braddock Road,Alexandria,VA,22301,38.814009,-77.053763,train,train
+4,BL,5,Ronald Reagan Washington National Airport,Arlington,VA,22202,38.852985,-77.043805,train,train
+5,BL,6,Crystal City,Arlington,VA,22202,38.85779,-77.050589,train,train
+6,BL,7,Pentagon City,Arlington,VA,22202,38.863045,-77.059507,train,train
+7,BL,8,Pentagon,Arlington,VA,22202,38.869349,-77.054013,train,train
+8,BL,9,Arlington Cemetery,Arlington,VA,22211,38.884574,-77.063108,train,train
+9,BL,10,Rosslyn,Arlington,VA,22209,38.896595,-77.07146,train,train
+10,BL,11,Foggy Bottom-GWU,Washington,DC,20037,38.900599,-77.050273,train,train
+11,BL,12,Farragut West,Washington,DC,20006,38.901311,-77.03981,train,train
+12,BL,13,McPherson Square,Washington,DC,20005,38.901316,-77.033652,train,train
+13,BL,14,Metro Center,Washington,DC,20005,38.898303,-77.028099,train,train
+14,BL,15,Federal Triangle,Washington,DC,20004,38.893757,-77.028218,train,train
+15,BL,16,Smithsonian,Washington,DC,20004,38.888022,-77.028232,train,train
+16,BL,17,L'Enfant Plaza,Washington,DC,20024,38.884775,-77.021964,train,train
+17,BL,18,Federal Center SW,Washington,DC,20024,38.884958,-77.01586,train,train
+18,BL,19,Capitol South,Washington,DC,20003,38.884968,-77.005137,train,train
+19,BL,20,Eastern Market,Washington,DC,20003,38.884124,-76.995334,train,train
+20,BL,21,Potomac Ave,Washington,DC,20003,38.880841,-76.985721,train,train
+21,BL,22,Stadium-Armory,Washington,DC,20003,38.88594,-76.977485,train,train
+22,BL,23,Benning Road,Washington,DC,20019,38.890488,-76.938291,train,train
+23,BL,24,Capitol Heights,Capitol Heights,MD,20743,38.889757,-76.913382,train,train
+24,BL,25,Addison Road-Seat Pleasant,Capitol Heights,MD,20743,38.886713,-76.893592,train,train
+25,BL,26,Morgan Boulevard,Landover,MD,20785,38.8913,-76.8682,train,train
+26,BL,27,Largo Town Center,Largo,MD,20774,38.9008,-76.8449,train,train
+27,GR,1,Branch Ave,Suitland,MD,20746,38.826995,-76.912134,train,train
+28,GR,2,Suitland,Suitland,MD,20746,38.843891,-76.932022,train,train
+29,GR,3,Naylor Road,Temple Hills,MD,20748,38.851187,-76.956565,train,train
+30,GR,4,Southern Avenue,Temple Hills,MD,20748,38.840974,-76.97536,train,train
+31,GR,5,Congress Heights,Washington,DC,20020,38.845334,-76.98817,train,train
+32,GR,6,Anacostia,Washington,DC,20020,38.862072,-76.995648,train,train
+33,GR,7,Navy Yard-Ballpark,Washington,DC,20003,38.876588,-77.005086,train,train
+34,GR,8,Waterfront,Washington,DC,20024,38.876221,-77.017491,train,train
+35,GR,9,L'Enfant Plaza,Washington,DC,20024,38.884775,-77.021964,train,train
+36,GR,10,Archives-Navy Memorial-Penn Quarter,Washington,DC,20004,38.893893,-77.021902,train,train
+37,GR,11,Gallery Pl-Chinatown,Washington,DC,20001,38.89834,-77.021851,train,train
+38,GR,12,Mt Vernon Sq 7th St-Convention Center,Washington,DC,20001,38.905604,-77.022256,train,train
+39,GR,13,Shaw-Howard U,Washington,DC,20001,38.912919,-77.022194,train,train
+40,GR,14,U Street/African-Amer Civil War Memorial/Cardozo,Washington,DC,20009,38.916489,-77.028938,train,train
+41,GR,15,Columbia Heights,Washington,DC,20009,38.928672,-77.032775,train,train
+42,GR,16,Georgia Ave-Petworth,Washington,DC,20010,38.936077,-77.024728,train,train
+43,GR,17,Fort Totten,Washington,DC,20011,38.951777,-77.002174,train,train
+44,GR,18,West Hyattsville,Hyattsville,MD,20782,38.954931,-76.969881,train,train
+45,GR,19,Prince George's Plaza,Hyattsville,MD,20782,38.965276,-76.956182,train,train
+46,GR,20,College Park-U of MD,College Park,MD,20740,38.978523,-76.928432,train,train
+47,GR,21,Greenbelt,Greenbelt,MD,20740,39.011036,-76.911362,train,train
+48,OR,1,Vienna/Fairfax-GMU,Fairfax,VA,22031,38.877693,-77.271562,train,train
+49,OR,2,Dunn Loring-Merrifield,Vienna,VA,22180,38.883015,-77.228939,train,train
+50,OR,3,West Falls Church-VT/UVA,Falls Church,VA,22043,38.90067,-77.189394,train,train
+51,OR,4,East Falls Church,Arlington,VA,22205,38.885841,-77.157177,train,train
+52,OR,5,Ballston-MU,Arlington,VA,22201,38.882071,-77.111845,train,train
+53,OR,6,Virginia Square-GMU,Arlington,VA,22201,38.88331,-77.104267,train,train
+54,OR,7,Clarendon,Arlington,VA,22201,38.886373,-77.096963,train,train
+55,OR,8,Court House,Arlington,VA,22201,38.891499,-77.08391,train,train
+56,OR,9,Rosslyn,Arlington,VA,22209,38.896595,-77.07146,train,train
+57,OR,10,Foggy Bottom-GWU,Washington,DC,20037,38.900599,-77.050273,train,train
+58,OR,11,Farragut West,Washington,DC,20006,38.901311,-77.03981,train,train
+59,OR,12,McPherson Square,Washington,DC,20005,38.901316,-77.033652,train,train
+60,OR,13,Metro Center,Washington,DC,20005,38.898303,-77.028099,train,train
+61,OR,14,Federal Triangle,Washington,DC,20004,38.893757,-77.028218,train,train
+62,OR,15,Smithsonian,Washington,DC,20004,38.888022,-77.028232,train,train
+63,OR,16,L'Enfant Plaza,Washington,DC,20024,38.884775,-77.021964,train,train
+64,OR,17,Federal Center SW,Washington,DC,20024,38.884958,-77.01586,train,train
+65,OR,18,Capitol South,Washington,DC,20003,38.884968,-77.005137,train,train
+66,OR,19,Eastern Market,Washington,DC,20003,38.884124,-76.995334,train,train
+67,OR,20,Potomac Ave,Washington,DC,20003,38.880841,-76.985721,train,train
+68,OR,21,Stadium-Armory,Washington,DC,20003,38.88594,-76.977485,train,train
+69,OR,22,Minnesota Ave,Washington,DC,20019,38.898284,-76.948042,train,train
+70,OR,23,Deanwood,Washington,DC,20019,38.907734,-76.936177,train,train
+71,OR,24,Cheverly,Cheverly,MD,20785,38.91652,-76.915427,train,train
+72,OR,25,Landover,Hyattsville,MD,20785,38.934411,-76.890988,train,train
+73,OR,26,New Carrollton,New Carrollton,MD,20784,38.947674,-76.872144,train,train
+74,RD,1,Shady Grove,Rockville,MD,20855,39.119819,-77.164921,train,train
+75,RD,2,Rockville,Rockville,MD,20850,39.084215,-77.146424,train,train
+76,RD,3,Twinbrook,Rockville,MD,20852,39.062359,-77.121113,train,train
+77,RD,4,White Flint,Rockville,MD,20852,39.048043,-77.113131,train,train
+78,RD,5,Grosvenor-Strathmore,Bethesda,MD,20852,39.029158,-77.10415,train,train
+79,RD,6,Medical Center,Bethesda,MD,20814,38.999947,-77.097253,train,train
+80,RD,7,Bethesda,Bethesda,MD,20814,38.984282,-77.094431,train,train
+81,RD,8,Friendship Heights,Washington,DC,20015,38.960744,-77.085969,train,train
+82,RD,9,Tenleytown-AU,Washington,DC,20016,38.947808,-77.079615,train,train
+83,RD,10,Van Ness-UDC,Washington,DC,20008,38.94362,-77.063511,train,train
+84,RD,11,Cleveland Park,Washington,DC,20008,38.934703,-77.058226,train,train
+85,RD,12,Woodley Park-Zoo/Adams Morgan,Washington,DC,20008,38.924999,-77.052648,train,train
+86,RD,13,Dupont Circle,Washington,DC,20036,38.909499,-77.04362,train,train
+87,RD,14,Farragut North,Washington,DC,20036,38.903192,-77.039766,train,train
+88,RD,15,Metro Center,Washington,DC,20005,38.898303,-77.028099,train,train
+89,RD,16,Gallery Pl-Chinatown,Washington,DC,20001,38.89834,-77.021851,train,train
+90,RD,17,Judiciary Square,Washington,DC,20001,38.896084,-77.016643,train,train
+91,RD,18,Union Station,Washington,DC,20002,38.897723,-77.006745,train,train
+92,RD,19,NoMa-Gallaudet U,Washington,DC,20002,38.907407,-77.002961,train,train
+93,RD,20,Rhode Island Ave-Brentwood,Washington,DC,20018,38.920741,-76.995984,train,train
+94,RD,21,Brookland-CUA,Washington,DC,20017,38.933234,-76.994544,train,train
+95,RD,22,Fort Totten,Washington,DC,20011,38.951777,-77.002174,train,train
+96,RD,23,Takoma,Washington,DC,20012,38.975532,-77.017834,train,train
+97,RD,24,Silver Spring,Silver Spring,MD,20910,38.993841,-77.031321,train,train
+98,RD,25,Forest Glen,Forest Glen,MD,20910,39.015413,-77.042953,train,train
+99,RD,26,Wheaton,Silver Spring,MD,20902,39.038558,-77.051098,train,train
+100,RD,27,Glenmont,Silver Spring,MD,20906,39.061713,-77.05341,train,train
+101,SV,1,Wiehle-Reston East,Reston,VA,20190,38.947753,-77.340179,train,train
+102,SV,2,Spring Hill,Vienna,VA,22182,38.92902,-77.24178,train,train
+103,SV,3,Greensboro,Vienna,VA,22182,38.919749,-77.235192,train,train
+104,SV,4,Tysons Corner,McLean,VA,22102,38.920056,-77.223314,train,train
+105,SV,5,McLean,McLean,VA,22102,38.924478,-77.210167,train,train
+106,SV,6,East Falls Church,Arlington,VA,22205,38.885841,-77.157177,train,train
+107,SV,7,Ballston-MU,Arlington,VA,22201,38.882071,-77.111845,train,train
+108,SV,8,Virginia Square-GMU,Arlington,VA,22201,38.88331,-77.104267,train,train
+109,SV,9,Clarendon,Arlington,VA,22201,38.886373,-77.096963,train,train
+110,SV,10,Court House,Arlington,VA,22201,38.891499,-77.08391,train,train
+111,SV,11,Rosslyn,Arlington,VA,22209,38.896595,-77.07146,train,train
+112,SV,12,Foggy Bottom-GWU,Washington,DC,20037,38.900599,-77.050273,train,train
+113,SV,13,Farragut West,Washington,DC,20006,38.901311,-77.03981,train,train
+114,SV,14,McPherson Square,Washington,DC,20005,38.901316,-77.033652,train,train
+115,SV,15,Metro Center,Washington,DC,20005,38.898303,-77.028099,train,train
+116,SV,16,Federal Triangle,Washington,DC,20004,38.893757,-77.028218,train,train
+117,SV,17,Smithsonian,Washington,DC,20004,38.888022,-77.028232,train,train
+118,SV,18,L'Enfant Plaza,Washington,DC,20024,38.884775,-77.021964,train,train
+119,SV,19,Federal Center SW,Washington,DC,20024,38.884958,-77.01586,train,train
+120,SV,20,Capitol South,Washington,DC,20003,38.884968,-77.005137,train,train
+121,SV,21,Eastern Market,Washington,DC,20003,38.884124,-76.995334,train,train
+122,SV,22,Potomac Ave,Washington,DC,20003,38.880841,-76.985721,train,train
+123,SV,23,Stadium-Armory,Washington,DC,20003,38.88594,-76.977485,train,train
+124,SV,24,Benning Road,Washington,DC,20019,38.890488,-76.938291,train,train
+125,SV,25,Capitol Heights,Capitol Heights,MD,20743,38.889757,-76.913382,train,train
+126,SV,26,Addison Road-Seat Pleasant,Capitol Heights,MD,20743,38.886713,-76.893592,train,train
+127,SV,27,Morgan Boulevard,Landover,MD,20785,38.8913,-76.8682,train,train
+128,SV,28,Largo Town Center,Largo,MD,20774,38.9008,-76.8449,train,train
+129,YL,1,Huntington,Huntington,VA,22303,38.793841,-77.075301,train,train
+130,YL,2,Eisenhower Avenue,Alexandria,VA,22314,38.800313,-77.071173,train,train
+131,YL,3,King St-Old Town,Alexandria,VA,22301,38.806474,-77.061115,train,train
+132,YL,4,Braddock Road,Alexandria,VA,22301,38.814009,-77.053763,train,train
+133,YL,5,Ronald Reagan Washington National Airport,Arlington,VA,22202,38.852985,-77.043805,train,train
+134,YL,6,Crystal City,Arlington,VA,22202,38.85779,-77.050589,train,train
+135,YL,7,Pentagon City,Arlington,VA,22202,38.863045,-77.059507,train,train
+136,YL,8,Pentagon,Arlington,VA,22202,38.869349,-77.054013,train,train
+137,YL,9,L'Enfant Plaza,Washington,DC,20024,38.884775,-77.021964,train,train
+138,YL,10,Archives-Navy Memorial-Penn Quarter,Washington,DC,20004,38.893893,-77.021902,train,train
+139,YL,11,Gallery Pl-Chinatown,Washington,DC,20001,38.89834,-77.021851,train,train
+140,YL,12,Mt Vernon Sq 7th St-Convention Center,Washington,DC,20001,38.905604,-77.022256,train,train
+141,YL,13,Shaw-Howard U,Washington,DC,20001,38.912919,-77.022194,train,train
+142,YL,14,U Street/African-Amer Civil War Memorial/Cardozo,Washington,DC,20009,38.916489,-77.028938,train,train
+143,YL,15,Columbia Heights,Washington,DC,20009,38.928672,-77.032775,train,train
+144,YL,16,Georgia Ave-Petworth,Washington,DC,20010,38.936077,-77.024728,train,train
+145,YL,17,Fort Totten,Washington,DC,20011,38.951777,-77.002174,train,train
